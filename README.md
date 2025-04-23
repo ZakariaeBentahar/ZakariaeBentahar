@@ -23,7 +23,7 @@ Mon objectif est clair : mettre mes compétences en data science et ingénierie 
 > Stack : Python, Scikit-learn, XGBoost, SHAP  
 > Étapes en cours : EDA + structuration du repo + premiers modèles
 
-🔗 Voir le projet : [fraud-detection-insurance](https://github.com/zakariae-bentahar/fraud-detection-insurance)
+🔗 Voir le projet : [fraud-detection-insurance](https://github.com/ZakariaeBentahar/fraud-detection-insurance)
 
 ---
 
