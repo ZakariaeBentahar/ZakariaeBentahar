@@ -1,4 +1,4 @@
-# Zakariae Bentahar · Data Science with Purpose
+# Salut, moi c’est Zakariae 👋
 
 Bonjour et bienvenue sur mon espace GitHub.
 
