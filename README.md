@@ -7,7 +7,6 @@ Je me passionne pour tout ce qui touche à la donnée : la comprendre, la struct
 
 Mon objectif est clair : mettre mes compétences en data science et ingénierie au service de **problématiques concrètes**, notamment dans les secteurs **de l’assurance et de la finance**, où la donnée peut réellement faire la différence.
 
-Je suis actuellement en pleine construction de mon portfolio GitHub, avec des projets ciblés, inspirés de **cas d’usage réels** : détection de fraude, scoring de crédit, traitement de logs temps réel, IA conversationnelle, NLP sur documents métier…
 
  **Objectif 2025 : décrocher un CDI en Data Science / Data Engineering dans un environnement exigeant, utile, et orienté impact.**
 
