@@ -1,45 +1,46 @@
-# Salut, moi c’est Zakariae 👋
+# Hi there, I’m Zakariae 👋
 
-Bonjour et bienvenue sur mon espace GitHub.
+Welcome to my GitHub space.
 
-Je m'appelle **Zakariae Bentahar**, étudiant-ingénieur en data science à l’**ENSIIE** et en Master **IMSD** à l’Université **Paris-Saclay**.  
-Je me passionne pour tout ce qui touche à la donnée : la comprendre, la structurer, l’interpréter — mais surtout **l’utiliser pour prendre de meilleures décisions**.
+I'm **Zakariae Bentahar**, a data science engineering student at **ENSIIE** and enrolled in the **IMSD Master’s program** at **Université Paris-Saclay**.  
+I’m passionate about everything related to data: understanding it, structuring it, interpreting it — but above all, **using it to make better decisions**.
 
-Mon objectif est clair : mettre mes compétences en data science et ingénierie au service de **problématiques concrètes**, notamment dans les secteurs **de l’assurance et de la finance**, où la donnée peut réellement faire la différence.
+My goal is clear: to apply my skills in data science and engineering to **real-world challenges**, particularly in **insurance and finance**, where data truly drives impact.
 
-
- **Objectif 2025 : décrocher un CDI en Data Science / Data Engineering dans un environnement exigeant, utile, et orienté impact.**
-
- **Contact rapide :**  
-- LinkedIn : [https://www.linkedin.com/in/zakariae-bentahar](https://www.linkedin.com/in/zakariae-bentahar)  
-- Email : zakariae.bentahar100@gmail.com
+**🎯 2025 Goal: Land a full-time role in Data Science / Data Engineering in a demanding, meaningful, and impact-driven environment.**
 
 ---
 
-##  Projet en cours
-
-### `fraud-detection-insurance` · *Détection de fraude dans les sinistres*
-> Construction d’un modèle supervisé + explicable pour identifier les cas de fraude à partir de caractéristiques clients / sinistres.  
-> Stack : Python, Scikit-learn, XGBoost, SHAP  
-> Étapes en cours : EDA + structuration du repo + premiers modèles
-
-🔗 Voir le projet : [fraud-detection-insurance](https://github.com/ZakariaeBentahar/fraud-detection-insurance)
+**📬 Quick contact:**  
+- LinkedIn: [https://www.linkedin.com/in/zakariae-bentahar](https://www.linkedin.com/in/zakariae-bentahar)  
+- Email: zakariae.bentahar100@gmail.com
 
 ---
 
-##  Roadmap projets
+## 🚧 Current Project
 
-| Projet                     | Objectif métier                                          | Étiquette       |
-|---------------------------|------------------------------------------------------------------|-----------------|
-| fraud-detection-insurance | Identifier automatiquement les fraudes clients      | En cours     |
-| credit-scoring-model      | Prédire le risque de défaut d’un emprunteur             |  À venir      |
-| log-streaming-kafka       | Traiter des logs en temps réel avec Kafka/Spark    |  À venir      |
-| insurance-chatbot         | Simuler des offres d’assurance via NLP + GPT        |  À venir      |
-| contract-nlp-extractor    | Extraire des clauses critiques de contrats PDF       |  À venir      |
+### `fraud-detection-insurance` · *Fraud Detection in Claims*
+> Building a supervised + explainable model to identify fraudulent insurance claims based on customer and claim features.  
+> **Stack:** Python, Scikit-learn, XGBoost, SHAP  
+> **Current stage:** EDA + repo structure + first models
+
+🔗 [View project](https://github.com/ZakariaeBentahar/fraud-detection-insurance)
 
 ---
 
-##  Stack de travail
+## 📅 Project Roadmap
+
+| Project                   | Business Objective                                     | Status      |
+|--------------------------|--------------------------------------------------------|-------------|
+| fraud-detection-insurance| Automatically detect fraudulent claims                | In progress |
+| credit-scoring-model     | Predict the default risk of loan applicants            | Upcoming    |
+| log-streaming-kafka      | Real-time log processing with Kafka/Spark             | Upcoming    |
+| insurance-chatbot        | Simulate insurance quotes via NLP + GPT               | Upcoming    |
+| contract-nlp-extractor   | Extract critical clauses from insurance contracts (PDF)| Upcoming    |
+
+---
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
@@ -53,16 +54,16 @@ Mon objectif est clair : mettre mes compétences en data science et ingénierie 
 
 ---
 
-##  Mon approche
+## 🎯 My Approach
 
-Chaque projet ici est pensé comme un **cas d’usage professionnel**, avec :
-- des **objectifs clairs**
-- une **progression visible**
-- des **résultats interprétables**
-- et une documentation qui parle autant à un data engineer qu’à un décideur métier.
+Every project here is designed as a **professional use case**, with:
+- **Clear business objectives**
+- **Visible progress**
+- **Interpretable results**
+- And documentation that speaks to both data engineers and business stakeholders.
 
-Ma priorité : **créer de la valeur avec la donnée**, pas seulement coder des modèles.
+My priority: **create value with data**, not just build models.
 
 ---
 
-> “Construire, expliquer, livrer. La data n'est utile que si elle parle au métier.”
+> *“Build it, explain it, deliver it. Data only matters when it speaks to the business.”*
